@@ -1,0 +1,6 @@
+@mission10_HostAddress = http://localhost:5068
+
+GET {{mission10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

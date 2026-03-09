@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|c:\\users\\cvpow\\onedrive\\desktop\\mission10\\backend\\mission10\\mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|solutionrelative:mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|c:\\users\\cvpow\\onedrive\\desktop\\mission10\\backend\\mission10\\mission10\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|solutionrelative:mission10\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|c:\\users\\cvpow\\onedrive\\desktop\\mission10\\backend\\mission10\\mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|solutionrelative:mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|c:\\users\\cvpow\\onedrive\\desktop\\mission10\\backend\\mission10\\mission10\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|solutionrelative:mission10\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|c:\\users\\cvpow\\onedrive\\desktop\\mission10\\backend\\mission10\\mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|solutionrelative:mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|c:\\users\\cvpow\\onedrive\\desktop\\mission10\\backend\\mission10\\mission10\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCEAD51-9F2B-4428-A921-C248608A707C}|mission10\\mission10.csproj|solutionrelative:mission10\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\appsettings.json",
+              "RelativeDocumentMoniker": "mission10\\appsettings.json",
+              "ToolTip": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\appsettings.json",
+              "RelativeToolTip": "mission10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T21:20:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "mission10\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Data\\Team.cs*",
+              "RelativeToolTip": "mission10\\Data\\Team.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:19:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "mission10\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Data\\Bowler.cs*",
+              "RelativeToolTip": "mission10\\Data\\Bowler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:16:18.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "mission10\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Data\\BowlerDbContext.cs*",
+              "RelativeToolTip": "mission10\\Data\\BowlerDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:12:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "mission10\\Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Controllers\\BowlersController.cs*",
+              "RelativeToolTip": "mission10\\Controllers\\BowlersController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:11:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Program.cs",
+              "RelativeDocumentMoniker": "mission10\\Program.cs",
+              "ToolTip": "C:\\Users\\cvpow\\OneDrive\\Desktop\\mission10\\backend\\mission10\\mission10\\Program.cs*",
+              "RelativeToolTip": "mission10\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:09:00.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
