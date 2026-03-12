@@ -15,8 +15,8 @@ export default function BowlersTable(): React.ReactElement {
           setBowlers([]);
           return;
         }
-        const data = (await res.json()) as Bowler[];
-        setBowlers(data || []);
+        const data = (await res.json()) as Bowler[]; // since we declared Bowler as list above, we recieve as an array too
+        setBowlers(data || []); // update our array with the new data we got in the reponse
       } catch (err) {
         console.error('Fetch error', err);
         setBowlers([]);
@@ -25,7 +25,7 @@ export default function BowlersTable(): React.ReactElement {
       }
     }
 
-    load();
+    load(); // call the function above to actually get the data from db
   }, []);
 
   if (loading) return <div>Loading bowlers…</div>;
